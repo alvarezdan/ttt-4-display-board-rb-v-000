@@ -3,5 +3,5 @@
 board = ["   |   |   ", "   |   |   ", "   |   |   "]
 
 def display_board(board)
-  puts ""
+  puts "row #{0}"
 end
